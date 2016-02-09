@@ -1,0 +1,11 @@
+https://technet.microsoft.com/en-us/library/jj200677(v=exchg.160).aspx
+
+https://damn.technology/locating-pst-files-on-a-network
+
+https://technet.microsoft.com/en-us/library/bb125264(v=exchg.160).aspx
+
+http://pshscripts.blogspot.com/2010/03/get-outlookstores.html
+
+http://blogs.technet.com/b/exchange/archive/2007/04/13/3401913.aspx
+
+http://woshub.com/how-to-import-and-export-pst-files-in-exchange-2013/
